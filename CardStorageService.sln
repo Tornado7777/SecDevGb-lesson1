@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardStorageService", "CardS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardStorageService.Data", "CardStorageService.Data\CardStorageService.Data.csproj", "{C90578A3-EB0F-4FDF-A9EE-09817BA56B38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePswClient", "ConsolePswClient\ConsolePswClient.csproj", "{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTSample", "JWTSample\JWTSample.csproj", "{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C90578A3-EB0F-4FDF-A9EE-09817BA56B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90578A3-EB0F-4FDF-A9EE-09817BA56B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90578A3-EB0F-4FDF-A9EE-09817BA56B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
