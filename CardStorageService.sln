@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardStorageService", "CardS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardStorageService.Data", "CardStorageService.Data\CardStorageService.Data.csproj", "{C90578A3-EB0F-4FDF-A9EE-09817BA56B38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePswClient", "ConsolePswClient\ConsolePswClient.csproj", "{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolePswClient", "ConsolePswClient\ConsolePswClient.csproj", "{B7DEDD20-1BCD-42DA-BFD1-133D384328B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTSample", "JWTSample\JWTSample.csproj", "{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTSample", "JWTSample\JWTSample.csproj", "{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4Framework4_8", "Lesson4Framework4_8\Lesson4Framework4_8.csproj", "{F99D0930-8F54-43D1-AADD-14C23216CC35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D399EF2C-2BD7-4090-A9DC-3DE8ABB07FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99D0930-8F54-43D1-AADD-14C23216CC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99D0930-8F54-43D1-AADD-14C23216CC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99D0930-8F54-43D1-AADD-14C23216CC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99D0930-8F54-43D1-AADD-14C23216CC35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
