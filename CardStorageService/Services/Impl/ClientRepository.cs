@@ -1,5 +1,4 @@
 ﻿using CardStorageService.Data;
-using ClientServiceProtos;
 
 namespace CardStorageService.Services.Impl
 {

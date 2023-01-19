@@ -18,7 +18,7 @@ namespace CardStorageClientGRPC
             using (GrpcChannel channel = GrpcChannel.ForAddress("http://localhost:5001"))
             {
                 ClientServiceClient client = new ClientServiceClient(channel);
-                var response = new client.CreateClientResponse(new ClientServiceProtos.CreateClientRequest
+                var response = client.Create(new ClientServiceProtos.CreateClientRequest
                 {
                     FirstName = "Иван",
                     Surname = "Иванов",
